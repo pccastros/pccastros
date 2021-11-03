@@ -1,6 +1,6 @@
 # I'm Patricio Castro
-* Python Back
-* JS Front
+* Python Backend
+* JS Frontend
 * Self-taught
 * Travel, trecking and hicking 
 
